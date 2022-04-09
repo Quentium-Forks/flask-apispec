@@ -1,6 +1,18 @@
 Changelog
 ---------
 
+0.12.0 (unreleased)
+*******************
+
+Features:
+
+* Update `register_existing_resources` method for Flask 2.0
+* Fix content-type problem for 3.0
+* Add static folder parameters + config variable
+* Add proxy path for gateway override + template rendering
+* Bump Swagger UI
+* Bump Python testing and support versions
+
 0.11.1 (2022-03-29)
 *******************
 
